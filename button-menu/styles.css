@@ -30,7 +30,7 @@ nav {
 }
 
 main {
-    background: url("/button-menu/bgmenu.jpg") no-repeat center center;
+    background: url("/button-menu/img/bgmenu.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh
 }
