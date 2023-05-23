@@ -57,3 +57,16 @@
   width: 1.3em;
   fill: #1f294a;
 }
+
+.search__icon {
+  animation: vibrar 0.5s infinite alternate;
+}
+
+@keyframes vibrar {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(5px);
+  }
+}
