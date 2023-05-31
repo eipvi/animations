@@ -8,7 +8,7 @@ Use it for your Front-end projects without moderation and get the best results a
 
 ## 01.Typewriter:<br>
 
-![helloworld](https://user-images.githubusercontent.com/87573675/206924380-c0daf5bd-0288-43c0-b177-cb6d7cc2dc8e.gif)
+![typewriter](https://github.com/eipvi/animations/assets/87573675/82d3d434-90de-46ee-9875-f9fdd85759bd)
 
 ## 02.Search:
 
@@ -16,7 +16,7 @@ Use it for your Front-end projects without moderation and get the best results a
 
 ## 03.Neon:
 
-![btknow more](https://user-images.githubusercontent.com/87573675/208219914-bc389885-25d7-4094-acb6-60e71c1aa95a.gif)
+![neon](https://github.com/eipvi/animations/assets/87573675/181aec3c-f825-44d3-a4be-2f4f55d507f6)
 
 ## 04. Heart
 
