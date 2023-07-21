@@ -21,3 +21,7 @@ Use it for your Front-end projects without moderation and get the best results a
 ## 04. Heart
 
 ![bater-h](https://github.com/eipvi/animations/assets/87573675/833986c8-cff6-456f-8ca8-65b82833fcf4)
+
+## 05. Box Animation
+
+![Gravação de tela de 21-07-2023 15_41_25](https://github.com/eipvi/animations/assets/87573675/366118f5-e36e-432f-8a16-d64dd68fa8c6)
