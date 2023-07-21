@@ -1,0 +1,54 @@
+@keyframes containeranime {
+  from {
+    width: 200px;
+    height: 200px;
+    color: #ffffff;
+  }
+
+  to {
+    width: 200px;
+    height: 200px;
+    padding: 40px 10px 20px 20px;
+    color: #ffffff;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+}
+#box {
+  width: 200px;
+  height: 200px;
+  display: table;
+  background: #000000;
+  margin: 20px auto;
+  padding: 20px 10px 20px 20px;
+  -webkit-border-radius: 30px 50px;
+  -moz-border-radius: 30px 50px;
+  border-radius: 30px 50px;
+ 
+
+}
+#box-container {
+  padding: 20px 10px 20px 20px;
+  display: block;
+  transition: all 2s ease-in;
+  animation: containeranime 2s forwards;
+}
+
+h1 {
+  font-size: 1em;
+  color: #ffffff;
+}
+
+h2 {
+  margin: 1px 0 0;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 0.8em;
+  color: #ffffff;
+}
